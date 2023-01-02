@@ -17,35 +17,35 @@
 - You have 30 projects made 
 - You spend about 1800 hours to finish the whole curriculum
 - You have worth certificates that show your effort
-- The most important you have strong knowledge and practic skills
+- The most important you have strong knowledge and practical skills
 
 ## Here is the complete list of my projects 
-that were required by the FreeCodeCamp curriculum. Feel free to checkout published of them.
+that were required by the FreeCodeCamp curriculum. Feel free to checkout them.
 
 >
 > Responsive Web Desing
 >
-> > Survey Form
+> > [Survey Form](https://github.com/amar-husika/survey-form)
 >
-> > Tribute Page
+> > [Tribute Page](https://github.com/amar-husika/tribute-page)
 >
-> > Technical Documentation Page
+> > [Technical Documentation Page](https://github.com/amar-husika/technical-documentation-page)
 > 
-> > Product Landing Page
+> > [Product Landing Page](https://github.com/amar-husika/product-landing-page)
 > 
 > > [Personal Portfolio Webpage](https://amarhusika.netlify.app)
 >
 > JavaScript Data Structures and Algorithms
 >
-> > Palindrome Checker
+> > [Palindrome Checker](https://github.com/amar-husika/palindrome-checker)
 > 
-> > Roman Numeral Converter
+> > [Roman Numeral Converter](https://github.com/amar-husika/roman-numeral-converter)
 > 
-> > Caesars Cipher
+> > [Caesars Cipher](https://github.com/amar-husika/caesars-cipher)
 > 
-> > Telephone Number Validator
+> > [Telephone Number Validator](https://github.com/amar-husika/telephone-number-validator)
 > 
-> > Cash Register
+> > [Cash Register](https://github.com/amar-husika/cash-register)
 > 
 > Front End Development Libraries
 > 
